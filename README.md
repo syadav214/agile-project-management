@@ -1,2 +1,1 @@
-# projectManagement
-A series of document for project management
+A series of document to manage agile projects
